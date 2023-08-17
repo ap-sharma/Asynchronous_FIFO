@@ -9,4 +9,4 @@
 
 # Synthesis 
 
-Synthesized the design using Cadence Genus and reports are uploaded in folder Front_end_reports
+Synthesized the design using Cadence Genus on Cadence gpdk 45nm and reports are uploaded in folder Front_end_reports
