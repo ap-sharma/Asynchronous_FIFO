@@ -6,3 +6,7 @@
 4. wptr_full.v is used to generate gray coded write pointer for transmitting to the reader end and generate a FIFO_full signal for the reader <br /><br />
 5. sync_r2w.v is double flop synchroniser to synchronise read pointer to writer's clock domain <br /><br />
 6. sync_w2r.v is double flop synchroniser to synchronise write pointer to reader's clock domain <br /><br />
+
+# Synthesis 
+
+Synthesized the design using Cadence Genus and reports are uploaded in folder Front_end_reports
